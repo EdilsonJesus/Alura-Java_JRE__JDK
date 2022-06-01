@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/pcestudo/Alura/Java-JRE_e_JDK/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2949097923.index
+1943451760.index
+1865797976.index
